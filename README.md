@@ -8,7 +8,9 @@ Site desenvolvido para um grupo de amigos que jogam Clash Royale.
 
 ## Versão disponível
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="120" height="120" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="100" height="100" />
+
+## Mais telas
 
 | SOBRE | IMAGENS |
 | --- | --- |
@@ -27,6 +29,7 @@ Site desenvolvido para um grupo de amigos que jogam Clash Royale.
 | <img src="https://uploaddeimagens.com.br/images/001/970/309/original/16.jpg" width="420" height="600" /> | <img src="https://uploaddeimagens.com.br/images/001/970/310/original/14.jpg" width="420" height="600" />
 
 ## Site
+
 Visite a página [Equipe Bravo](https://www.felipesales.com.br/equipebravo).
 
 ## Suporte nos navegadores
